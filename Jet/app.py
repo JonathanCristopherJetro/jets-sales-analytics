@@ -5,6 +5,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
 import numpy as np
+import os
+from pathlib import Path
 
 # =====================================================
 # KONFIGURASI HALAMAN
@@ -49,17 +51,22 @@ st.markdown("""
 # =====================================================
 # LOAD DATA DARI DATABASE
 # =====================================================
+# Get the directory where this script is located
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / 'data'
+
 @st.cache_data(ttl=300)
 def load_data():
     """Load semua data dari CSV files"""
     try:
-        # Load dari CSV
-        df_customers = pd.read_csv('data/customers.csv')
-        df_products = pd.read_csv('data/products.csv')
-        df_order_details = pd.read_csv('data/order_details.csv')
+        # Load dari CSV dengan path absolut
+        df_customers = pd.read_csv(DATA_DIR / 'customers.csv')
+        df_products = pd.read_csv(DATA_DIR / 'products.csv')
+        df_order_details = pd.read_csv(DATA_DIR / 'order_details.csv')
         return df_customers, df_products, df_order_details
-    except FileNotFoundError:
-        st.error("⚠️ File CSV tidak ditemukan! Pastikan folder 'data' berisi file CSV.")
+    except FileNotFoundError as e:
+        st.error(f"⚠️ File CSV tidak ditemukan! Error: {e}")
+        st.error(f"Mencari di: {DATA_DIR}")
         st.stop()
 
 df_customers, df_products, df_order_details = load_data()
