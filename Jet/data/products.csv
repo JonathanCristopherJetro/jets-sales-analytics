@@ -1,0 +1,101 @@
+product_id,name,description,price,stock
+1,Smartphone 1 Series,High quality smartphone with excellent features and warranty,4766454,59
+2,Tablet 1 Series,High quality tablet with excellent features and warranty,4100627,86
+3,Headphone 1 Series,High quality headphone with excellent features and warranty,1963143,77
+4,Smartwatch 1 Series,High quality smartwatch with excellent features and warranty,2554507,80
+5,Camera 1 Series,High quality camera with excellent features and warranty,6548154,97
+6,Printer 1 Series,High quality printer with excellent features and warranty,2480464,97
+7,Monitor 1 Series,High quality monitor with excellent features and warranty,5252216,44
+8,Keyboard 1 Series,High quality keyboard with excellent features and warranty,1726799,24
+9,Mouse 1 Series,High quality mouse with excellent features and warranty,1131028,65
+10,Speaker 1 Series,High quality speaker with excellent features and warranty,1663361,68
+11,Charger 1 Series,High quality charger with excellent features and warranty,-336389,43
+12,Power Bank 1 Series,High quality power bank with excellent features and warranty,1899610,32
+13,USB Cable 1 Series,High quality usb cable with excellent features and warranty,1729371,23
+14,Hard Disk 1 Series,High quality hard disk with excellent features and warranty,1951768,91
+15,SSD 1 Series,High quality ssd with excellent features and warranty,3429292,87
+16,RAM 1 Series,High quality ram with excellent features and warranty,1334293,29
+17,Graphics Card 1 Series,High quality graphics card with excellent features and warranty,7068308,30
+18,Motherboard 1 Series,High quality motherboard with excellent features and warranty,5762319,77
+19,Processor 1 Series,High quality processor with excellent features and warranty,5002398,86
+20,Laptop 2 Series,High quality laptop with excellent features and warranty,8859609,72
+21,Smartphone 2 Series,High quality smartphone with excellent features and warranty,4581691,24
+22,Tablet 2 Series,High quality tablet with excellent features and warranty,4022451,49
+23,Headphone 2 Series,High quality headphone with excellent features and warranty,1004335,17
+24,Smartwatch 2 Series,High quality smartwatch with excellent features and warranty,2510288,82
+25,Camera 2 Series,High quality camera with excellent features and warranty,6830331,20
+26,Printer 2 Series,High quality printer with excellent features and warranty,4038391,18
+27,Monitor 2 Series,High quality monitor with excellent features and warranty,5234331,26
+28,Keyboard 2 Series,High quality keyboard with excellent features and warranty,838512,94
+29,Mouse 2 Series,High quality mouse with excellent features and warranty,1893478,80
+30,Speaker 2 Series,High quality speaker with excellent features and warranty,1692592,43
+31,Charger 2 Series,High quality charger with excellent features and warranty,1863224,87
+32,Power Bank 2 Series,High quality power bank with excellent features and warranty,1574769,37
+33,USB Cable 2 Series,High quality usb cable with excellent features and warranty,1861971,98
+34,Hard Disk 2 Series,High quality hard disk with excellent features and warranty,1543688,49
+35,SSD 2 Series,High quality ssd with excellent features and warranty,2973494,95
+36,RAM 2 Series,High quality ram with excellent features and warranty,2066239,66
+37,Graphics Card 2 Series,High quality graphics card with excellent features and warranty,7670870,67
+38,Motherboard 2 Series,High quality motherboard with excellent features and warranty,4007528,41
+39,Processor 2 Series,High quality processor with excellent features and warranty,5942448,18
+40,Laptop 3 Series,High quality laptop with excellent features and warranty,8918033,12
+41,Smartphone 3 Series,High quality smartphone with excellent features and warranty,6967545,80
+42,Tablet 3 Series,High quality tablet with excellent features and warranty,3465171,85
+43,Headphone 3 Series,High quality headphone with excellent features and warranty,923658,10
+44,Smartwatch 3 Series,High quality smartwatch with excellent features and warranty,1797766,100
+45,Camera 3 Series,High quality camera with excellent features and warranty,6746934,39
+46,Printer 3 Series,High quality printer with excellent features and warranty,2282697,14
+47,Monitor 3 Series,High quality monitor with excellent features and warranty,4385917,19
+48,Keyboard 3 Series,High quality keyboard with excellent features and warranty,2456527,40
+49,Mouse 3 Series,High quality mouse with excellent features and warranty,1068018,95
+50,Speaker 3 Series,High quality speaker with excellent features and warranty,3035975,37
+51,Charger 3 Series,High quality charger with excellent features and warranty,1911711,26
+52,Power Bank 3 Series,High quality power bank with excellent features and warranty,2195128,83
+53,USB Cable 3 Series,High quality usb cable with excellent features and warranty,1582525,41
+54,Hard Disk 3 Series,High quality hard disk with excellent features and warranty,2683792,62
+55,SSD 3 Series,High quality ssd with excellent features and warranty,2098637,22
+56,RAM 3 Series,High quality ram with excellent features and warranty,906557,94
+57,Graphics Card 3 Series,High quality graphics card with excellent features and warranty,7307959,55
+58,Motherboard 3 Series,High quality motherboard with excellent features and warranty,5276617,62
+59,Processor 3 Series,High quality processor with excellent features and warranty,6958843,16
+60,Laptop 4 Series,High quality laptop with excellent features and warranty,7912794,17
+61,Smartphone 4 Series,High quality smartphone with excellent features and warranty,6188716,53
+62,Tablet 4 Series,High quality tablet with excellent features and warranty,2958307,41
+63,Headphone 4 Series,High quality headphone with excellent features and warranty,803587,34
+64,Smartwatch 4 Series,High quality smartwatch with excellent features and warranty,3749345,67
+65,Camera 4 Series,High quality camera with excellent features and warranty,7087967,64
+66,Printer 4 Series,High quality printer with excellent features and warranty,2769604,45
+67,Monitor 4 Series,High quality monitor with excellent features and warranty,4940402,41
+68,Keyboard 4 Series,High quality keyboard with excellent features and warranty,616187,66
+69,Mouse 4 Series,High quality mouse with excellent features and warranty,2208231,22
+70,Speaker 4 Series,High quality speaker with excellent features and warranty,1212182,93
+71,Charger 4 Series,High quality charger with excellent features and warranty,1917390,11
+72,Power Bank 4 Series,High quality power bank with excellent features and warranty,191172,40
+73,USB Cable 4 Series,High quality usb cable with excellent features and warranty,297559,62
+74,Hard Disk 4 Series,High quality hard disk with excellent features and warranty,2736926,71
+75,SSD 4 Series,High quality ssd with excellent features and warranty,2196521,61
+76,RAM 4 Series,High quality ram with excellent features and warranty,745934,31
+77,Graphics Card 4 Series,High quality graphics card with excellent features and warranty,7089528,10
+78,Motherboard 4 Series,High quality motherboard with excellent features and warranty,5137547,43
+79,Processor 4 Series,High quality processor with excellent features and warranty,6908443,46
+80,Laptop 5 Series,High quality laptop with excellent features and warranty,9274221,99
+81,Smartphone 5 Series,High quality smartphone with excellent features and warranty,6831061,94
+82,Tablet 5 Series,High quality tablet with excellent features and warranty,4541247,29
+83,Headphone 5 Series,High quality headphone with excellent features and warranty,796489,47
+84,Smartwatch 5 Series,High quality smartwatch with excellent features and warranty,2413103,17
+85,Camera 5 Series,High quality camera with excellent features and warranty,8929258,79
+86,Printer 5 Series,High quality printer with excellent features and warranty,2255674,50
+87,Monitor 5 Series,High quality monitor with excellent features and warranty,3239768,16
+88,Keyboard 5 Series,High quality keyboard with excellent features and warranty,2750218,71
+89,Mouse 5 Series,High quality mouse with excellent features and warranty,2009107,77
+90,Speaker 5 Series,High quality speaker with excellent features and warranty,1660320,17
+91,Charger 5 Series,High quality charger with excellent features and warranty,1779987,20
+92,Power Bank 5 Series,High quality power bank with excellent features and warranty,579406,18
+93,USB Cable 5 Series,High quality usb cable with excellent features and warranty,2095758,18
+94,Hard Disk 5 Series,High quality hard disk with excellent features and warranty,1686516,61
+95,SSD 5 Series,High quality ssd with excellent features and warranty,1802840,82
+96,RAM 5 Series,High quality ram with excellent features and warranty,1532702,84
+97,Graphics Card 5 Series,High quality graphics card with excellent features and warranty,7993594,15
+98,Motherboard 5 Series,High quality motherboard with excellent features and warranty,3843863,63
+99,Processor 5 Series,High quality processor with excellent features and warranty,7448099,82
+100,Laptop 6 Series,High quality laptop with excellent features and warranty,9692709,50
